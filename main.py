@@ -1,5 +1,5 @@
-from superclase.Punto import Punto
-from subclase.rectangulo import Rectangulo
+from Punto import Punto
+from rectangulo import Rectangulo
 
 def imprimir_puntos(puntos):
     """Imprime una lista de puntos."""

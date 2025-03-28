@@ -1,4 +1,4 @@
-from superclase.Punto import Punto
+from Punto import Punto
 
 class Rectangulo:
     def __init__(self, punto_inicial=Punto(), punto_final=Punto()):
